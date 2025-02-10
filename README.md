@@ -21,6 +21,8 @@ GearQuest, a global e-commerce company founded in 2018, specialises in selling h
 An analysis of 1.5 million sales records from 2021 to 2024 reveals that GearQuest generates an average annual revenue of $58 million, with Asia and Europe contributing 60% of total sales. Gaming laptops remain the company’s dominant category, accounting for 49% of revenue, yet also experiencing the highest refund rates, raising concerns about product reliability and customer satisfaction. Order processing takes 3 days, and shipping to delivery averages 9 days, leading to missed SLAs and potential customer churn. A 2.33% YoY increase in refunds, particularly in gaming laptops and peripherals, suggests a need for enhanced quality control and improved return policies. While email marketing remains the top-performing channel, search engine ads underperformed, warranting a review of digital marketing investments.
 
 ## Insights Deep-Dive
+![Entity Relationship Diagram](https://github.com/DipunMohapatra/GearQuest-Exploratory-Data-Analysis/blob/6d432f2c9770d5bcf2e156d4a164417f0521e55c/Visuals/ERD.png)
+###### ERD
 
 ### Sales Trends and Growth Rates
 - GearQuest generated $587.7 million in sales in 2024, reflecting a 0.19% decline compared to the previous year.
