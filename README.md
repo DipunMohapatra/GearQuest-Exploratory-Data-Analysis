@@ -24,9 +24,6 @@ An analysis of 1.5 million sales records from 2021 to 2024 reveals that GearQues
 ## GearQuest Tableau Dashboard
 [![Tableau Dashboard](https://github.com/DipunMohapatra/GearQuest-Exploratory-Data-Analysis/blob/c1e29ec8764ff4a11f2215ecead0736c81843bc4/Visuals/Dashboard%20Preview.png)](https://public.tableau.com/shared/6FDRXRBBB?:display_count=n&:origin=viz_share_link)
 Link: https://public.tableau.com/app/profile/dipun.mohapatra8563/viz/shared/6FDRXRBBB
-
-## Entity Relationship Diagram (ERD)
-
 ## Insights Deep-Dive
 ![Entity Relationship Diagram](https://github.com/DipunMohapatra/GearQuest-Exploratory-Data-Analysis/blob/6d432f2c9770d5bcf2e156d4a164417f0521e55c/Visuals/ERD.png)
 ###### ERD
