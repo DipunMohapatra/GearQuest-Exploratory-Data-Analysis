@@ -98,3 +98,11 @@ GearQuest Dataset ERD
 ### Assumptions and Caveats
 - Refunds unexpectedly surged starting **January 2021**, which is an anomaly warranting further investigation.
 - Each `marketing_channel` is uniquely linked to one `account_creation_method`, indicating a **one-to-one mapping**. This lack of variation may require attention from the **data engineering team** to confirm intended relationships.
+
+## Download the Dataset
+The dataset used in this analysis is available on Kaggle. Click the link below to access and download it:
+🔗 [GearQuest Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/dipunmohapatra/gearquest-sales-and-customer-insights-dataset)
+## SQL Queries
+The SQL queries used for this project can be accessed via the following link:
+🔗 [GearQuest SQL Query](https://github.com/DipunMohapatra/GearQuest-Exploratory-Data-Analysis/blob/2500d8006730103d688d54e528b8f928d2446567/GearQuest%20SQL%20Query.sql)
+
